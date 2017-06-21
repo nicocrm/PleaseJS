@@ -675,4 +675,4 @@ Please.make_contrast = function(HSV, options){
   return contrast[0];
 };
 
-export default Please
+module.exports = Please
